@@ -1,8 +1,8 @@
-# Javascript memory game
+# Drum kit
 
 ## Description
 
-A 9*9 table of pictures, the player should find the couple of pictures that match. 
+Drum kit webpage that plays the instrument sounds by either clicking on each picture or pressing the corresponding keyboard key.
 
 code blocks for commands
 
